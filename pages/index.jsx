@@ -9,6 +9,11 @@ function Homepage() {
     </Head>
       <main>
         <h1>Chester's blog</h1>
+        <ul>
+          <li>one</li>
+          <li>two</li>
+          <li>three</li>
+        </ul>
       </main>
     </>
   );
